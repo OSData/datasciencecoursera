@@ -1,4 +1,4 @@
-README for run_analysis.R
+# README for run_analysis.R
 
 This script will load the required files from the UCI HAR Dataset. The files are expected to be in a subfolder of the working directory, called UCI HAR Dataset.
 
